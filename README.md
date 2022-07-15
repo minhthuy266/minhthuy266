@@ -1,5 +1,5 @@
 <h1 > Hello, I'm Thúy! Welcome To My Profile </h1>
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width=60% /> 
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width=55% /> 
 
 ### About Me: 
 - I'm a **Developer** | **Programmer** | **Learner**
