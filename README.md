@@ -1,12 +1,12 @@
 <h1 > Hello, I'm Thúy! Welcome To My Profile </h1>
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width=30% /> 
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width=50% /> 
 
 ### About Me: 
 - I'm a **Developer** | **Programmer** | **Learner**
 - Currently learning **Frontend Web Development** 
 - Willing to learn new technologies as well as contribute more and more in **Open Source Projects** 
 - Want to become a successful **Web Developer**. 
-<img align="right" src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" width=30%/> 
+<img align="right" src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" width=50%/> 
 
 ---
 
