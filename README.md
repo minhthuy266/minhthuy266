@@ -6,7 +6,7 @@
 - Currently learning **Frontend Web Development** 
 - Willing to learn new technologies as well as contribute more and more in **Open Source Projects** 
 - Want to become a successful **Web Developer**. 
-<img align="right" src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" width=50%/> 
+
 
 ---
 
