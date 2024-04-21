@@ -29,5 +29,5 @@
 ### Connect with Me:
 <p align="left">
 <a href="https://www.linkedin.com/in/minhthuy266/"><img src="https://img.shields.io/badge/-Thu%C3%BD%20Nguy%E1%BB%85n-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:thuy.nguyenminh266@gmail.com"><img src="https://img.shields.io/badge/-thuy.nguyenminh266@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:thuynm266@gmail.com"><img src="https://img.shields.io/badge/-thuynm266@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
